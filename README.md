@@ -26,7 +26,7 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 
 ## 💡 Aprendizagem por Projetos Integrados - Meus Projetos
 
-### 🐝 **BeeOnTime • 2025.1**
+### 🐝 [**BeeOnTime • 2025.1**](https://github.com/SkyFlyTeam/beeOnTime-documentation)
 
 #### 📑 **Descrição do Problema**
 
@@ -70,7 +70,7 @@ Esse semestre atuei como Product Owner na equipe SkyFly, tendo as seguintes cont
 - **Documentação do Projeto**: Desenvolvimento da documentação de cada sprint, apresentações e manuais de usuário, além de definir regras de commit, PR e critérios de aceitação.
 
 #### 🛠️ **Hard Skills Efetivamente Desenvolvidas**
-- **Desenvolvimento de protótipos no Figma**: Criação e prototipagem de interfaces de usuário no Figma, com mais de 50 telas criadas, variando entre elas e detalhando componentes.
+- **Desenvolvimento de protótipos no Figma**: Criação e prototipagem de interfaces de usuário no Figma, com mais de 50 telas criadas, variando entre elas e detalhando componentes, além de todas as telas adaptadas a visualização mobile.
 - **Desenvolvimento de documentação**: Elaboração de documentação técnica, incluindo Product Backlog, DoR (Definition of Ready), DoD (Definition of Done), regras de permanência mínima na equipe, manual do usuário, e documentação de processos e regras do projeto.
 - **Testes unitários e integrados**: Implementação de testes para garantir a qualidade e integridade do código, tanto em unidades isoladas quanto em integração com outras partes do sistema.
 - **Utilização do MySQL e MongoDB**: Gerenciamento e manipulação de bancos de dados relacionais (MySQL) e não relacionais (MongoDB) para armazenamento e gerenciamento de dados.
@@ -86,3 +86,82 @@ Esse semestre atuei como Product Owner na equipe SkyFly, tendo as seguintes cont
 - **Organização e Gestão de Tempo**: Um bom Product Owner é aquele que otimiza o valor do produto, e o primeiro passo para um bom desenvolvimento é a organização das demandas e a gestão das atividades. Com base na compreensão das necessidades do cliente, conseguimos organizar o tempo e o volume de tarefas de forma eficaz. A gestão do tempo foi feita levando em consideração a dificuldade e facilidade do time na execução das tarefas. Também foi essencial alinhar as prioridades, garantindo que os requisitos principais e inegociáveis fossem sempre respeitados.
 
 - **Liderança:** Como Product Owner, exerci a liderança da equipe SkyFly, gerenciando e orientando a execução das tarefas, garantindo que todos estivessem alinhados com os objetivos do produto e os requisitos do cliente. Isso envolveu a tomada de decisões estratégicas, a organização de trabalho de acordo com as forças de cada membro da equipe e a capacidade de influenciar positivamente o progresso do projeto.
+
+---
+
+### 🦔 [**CloudStock • 2024.2**](https://github.com/SkyFlyTeam/cloudStock)
+
+#### 📑 **Descrição do Problema**
+
+O **Cloud Stock** foi desenvolvido para resolver problemas comuns no gerenciamento de estoque, como a falta de organização, erros no controle de entradas e saídas de produtos, e dificuldades em gerar relatórios precisos. Isso pode levar a falhas nas decisões estratégicas, perda de inventário e aumento de erros humanos.
+
+#### 🎯 **Solução**
+
+O **Cloud Stock** oferece uma plataforma completa para a gestão de estoque, com funcionalidades como cadastro de itens, controle de movimentações, geração de relatórios detalhados e alertas automáticos. Isso permite uma gestão mais eficiente, minimiza os erros humanos e otimiza o acompanhamento do inventário.
+
+#### 🖥️ **Tecnologias Utilizadas**
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### 💪 **Contribuições Pessoais**
+Atuei como **desenvolvedora front-end**, contribuindo na prototipação do sistema utilizando o Figma, incluindo a criação da identidade visual e logotipo final. Durante o desenvolvimento, fui responsável pela construção de várias telas e componentes do sistema, aplicando **React** e **TypeScript** para criar uma interface responsiva e interativa. Além disso, participei da **gestão de tarefas** no **Jira**, colaborando ativamente no acompanhamento das sprints e no alinhamento do progresso do projeto.
+
+
+#### 🛠️ **Hard Skills Efetivamente Desenvolvidas**
+- **Modelagem de Banco de Dados**: Criação e estruturação de bancos de dados eficientes para garantir o armazenamento e a integridade das informações de estoque.
+- **Prototipação pelo Figma**: Desenvolvimento de wireframes e protótipos interativos, com foco na usabilidade e no design visual do sistema, garantindo uma experiência de usuário fluida.
+- **Front-End com React**: Construção de componentes reutilizáveis e interfaces responsivas, utilizando **React** para otimizar a interação do usuário com o sistema.
+- **Documentação Técnica**: Elaboração de manuais do usuário, documentação de processos e do sistema, garantindo clareza nas informações e uma fácil integração para novos membros da equipe.do usuário
+
+#### 🧠 **Soft Skills Efetivamente Desenvolvidas**
+- **Comunicação**: Interação constante com membros da equipe e stakeholders para alinhar requisitos e expectativas do projeto.
+- **Proatividade**: Busca constante por soluções para problemas técnicos e colaboração para melhorar a eficiência da equipe.
+- **Autonomia**: Capacidade de tomar decisões e implementar soluções de forma independente, enquanto mantinha o alinhamento com as necessidades do projeto.
+- **Colaboração**: Trabalho em equipe para garantir o cumprimento de prazos e a qualidade das entregas, além de contribuir com feedbacks construtivos durante o desenvolvimento.
+
+---
+
+### 🌱 [**Smart Farm • 2024.1**](https://github.com/SkyFlyTeam/SmartFarm)
+
+#### 📑 **Descrição do Problema**
+
+O **Smart Farm** é um sistema tecnológico de monitoramento ambiental, projetado para otimizar o cultivo de plantas e hortaliças. Atualmente, a coleta e análise dos dados são feitas manualmente através do Excel, um processo que é demorado e exigente para a equipe. Esse método dificulta o acompanhamento eficaz do crescimento das plantas e impacta a eficiência na gestão da estufa.
+
+#### 🎯 **Solução**
+
+Desenvolver um painel de visualização que permita o monitoramento contínuo da estufa, utilizando gráficos para apresentar os dados de forma clara e acessível. Além disso, automatizar o processo de coleta e armazenamento de dados, proporcionando uma solução mais ágil e precisa para o acompanhamento e gestão do cultivo.
+
+
+#### 🖥️ **Tecnologias Utilizadas**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+#### 💪 **Contribuições Pessoais**
+Atuei como **desenvolvedora full-stack** no **Smart Farm**, sendo responsável pela **modelagem do banco de dados** e pela criação do **backlog do produto**. Também ajudei na prototipação do projeto com **Figma** e na **documentação do manual do usuário**. No desenvolvimento, colaborei na criação de componentes de interface e na implementação de funcionalidades com **Python** e **MySQL**. Trabalhei ativamente no **front-end**, cuidando do desenvolvimento em algumas telas.
+
+
+#### 🛠️ **Hard Skills Efetivamente Desenvolvidas**
+- **Modelagem de Banco de Dados**: Design e estruturação do banco de dados, utilizando **MySQL** para armazenar dados do sistema.
+- **Desenvolvimento Full-Stack com Python e MySQL**: Criação de APIs e lógica de negócios, além de integrar o sistema com o banco de dados.
+- **Prototipação com Figma**: Desenvolvimento de wireframes e design de interface de usuário.
+- **Documentação Técnica**: Criação de manuais de usuário e documentação técnica do sistema.
+
+#### 🧠 **Soft Skills Efetivamente Desenvolvidas**
+- **Comunicação**: Discussão constante com a equipe para alinhar as expectativas do cliente e as necessidades técnicas do projeto.
+- **Proatividade**: Tomada de iniciativa para buscar soluções rápidas e eficazes, além de aprender novas tecnologias conforme necessário.
+- **Autonomia**: Desenvolvimento independente de funcionalidades e capacidade de resolução de problemas técnicos de forma autônoma.
+- **Colaboração**: Contribuição ativa para o desenvolvimento das funcionalidades e entregas dentro do prazo, garantindo a integração entre as equipes de front-end e back-end.
+
+
+
