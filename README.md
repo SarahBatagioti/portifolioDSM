@@ -12,38 +12,37 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 
 
 ## 📚 Resumo sobre mim
+<div style="display:flex;align-items:flex-start;gap:20px;">
+  <img src="arquivos/Sarah.png" alt="Sarah" width="120" />
+  <div>
+    <ul style="margin:0;padding-left:1.2em;">
+      <li>Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> (4° semestre) na FATEC São José dos Campos (2024 – 2026)</li>
+      <li><strong>Técnica em Desenvolvimento de Sistemas</strong> pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)</li>
+    </ul>
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td style="vertical-align:top;padding-right:16px;">
-      <img src="arquivos/Sarah.png" alt="Sarah" width="150" />
-    </td>
-    <td>
-      <ul>
-        <li>Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> (4° semestre) na FATEC São José dos Campos (2024 – 2026)</li>
-        <li><strong>Técnica em Desenvolvimento de Sistemas</strong> pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br/>
 
-- **Experiência anterior:**
-  - **Analista de Sistema** na Angular Tecnologia em Educação LTDA (Outubro 2024 – Outubro 2025)
-  - **Analista de Teste** na Symtropy Criação e Desenvolvimento (Jan 2024 – Set 2024)
-  - **Menor Aprendiz** com foco em design, prototipação e desenvolvimento de interfaces (Jun 2022 – Dez 2023)
-- **Voluntariados:**
-  - Voluntária no time de Apoio na Hamburgada do Bem (2025) 
-  - Voluntária no time Lar Global iGV da AIESEC (2024 – 2025)
-  - Voluntária e fundadora do projeto de reabertura da biblioteca da ETEC (2022)
-  - Voluntária no como Diretora de Imagem no Interact Club (2020 – 2021)
-- **Conquistas:**
-  - Premiada no programa Desafio Empower (2023)
-  - Eleita aluna destaque na Technovation Summer School for Girls (2023) 
-  - Equipe premiada na Off-Season FRC com o Quality Award - Team 6404 (2021)
-  - 2° lugar no Ideathon Construindo o Profissional do Futuro da INOVA CPS (2021)
-  - Medalhista de Ouro na Olimpíada Brasileira de Astronomia (2020)
-  - Medalhista de Ouro na Mostra Brasileira de Foguetes em (2020)
-  - Medalhista de Bronze na Mostra Brasileira de Foguetes (2019)
+**Experiência anterior:**
+- **Analista de Sistema** na Angular Tecnologia em Educação LTDA (Outubro 2024 – Outubro 2025)
+- **Analista de Teste** na Symtropy Criação e Desenvolvimento (Jan 2024 – Set 2024)
+- **Menor Aprendiz** com foco em design, prototipação e desenvolvimento de interfaces (Jun 2022 – Dez 2023)
+
+**Voluntariados:**
+- Voluntária no time de Apoio na Hamburgada do Bem (2025) 
+- Voluntária no time Lar Global iGV da AIESEC (2024 – 2025)
+- Voluntária e fundadora do projeto de reabertura da biblioteca da ETEC (2022)
+- Voluntária no como Diretora de Imagem no Interact Club (2020 – 2021)
+
+**Conquistas:**
+- Premiada no programa Desafio Empower (2023)
+- Eleita aluna destaque na Technovation Summer School for Girls (2023) 
+- Equipe premiada na Off-Season FRC com o Quality Award - Team 6404 (2021)
+- 2° lugar no Ideathon Construindo o Profissional do Futuro da INOVA CPS (2021)
+- Medalhista de Ouro na Olimpíada Brasileira de Astronomia (2020)
+- Medalhista de Ouro na Mostra Brasileira de Foguetes em (2020)
+- Medalhista de Bronze na Mostra Brasileira de Foguetes (2019)
 
 ## 💡 Aprendizagem por Projetos Integrados - Meus Projetos
 
