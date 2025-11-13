@@ -22,6 +22,10 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 
 <br/>
 
+<div style="clear: both;"></div>
+
+<br/>
+
 **Experiência anterior:**
 - **Analista de Sistema** na Angular Tecnologia em Educação LTDA (Outubro 2024 – Outubro 2025)
 - **Analista de Teste** na Symtropy Criação e Desenvolvimento (Jan 2024 – Set 2024)
