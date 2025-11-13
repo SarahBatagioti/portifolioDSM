@@ -12,15 +12,10 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 
 
 ## 📚 Resumo sobre mim
-<div style="display:flex;align-items:flex-start;gap:20px;">
-  <img src="arquivos/Sarah.png" alt="Sarah" width="120" />
-  <div>
-    <ul style="margin:0;padding-left:1.2em;">
-      <li>Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> (4° semestre) na FATEC São José dos Campos (2024 – 2026)</li>
-      <li><strong>Técnica em Desenvolvimento de Sistemas</strong> pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)</li>
-    </ul>
-  </div>
-</div>
+<img src="arquivos/Sarah.png" width="120" align="left" alt="Sarah" />
+
+- Estudante de **Desenvolvimento de Software Multiplataforma** (4° semestre) na FATEC São José dos Campos (2024 – 2026)
+- **Técnica em Desenvolvimento de Sistemas** pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)
 
 <br/>
 
