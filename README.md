@@ -5,7 +5,7 @@ Neste portfólio, você poderá encontrar mais informações sobre minha trajet�
 
 Para saber **mais sobre mim**, acesse os links abaixo:
 - [📧 E-mail para contato](mailto:sarah.montuanibt@gmail.com)
-- [💬 Whatsapp para contato](https://api.whatsapp.com/send?phone=5512981282279&text=sua%20mensagem)
+- [💬 Whatsapp para contato](https://api.whatsapp.com/send?phone=5512981282279&text=Oi%20Sarah!%20Tudo%20bem?%20Gostaria%20de%20falar%20com%20voc%C3%AA%20sobre...)
 - [🔗 Perfil no LinkedIn](https://www.linkedin.com/in/sarahbatagioti/)
 - [🐙 Repositórios do GitHub](https://github.com/SarahBatagioti?tab=repositories)
 - [📄 PDF do Currículo](arquivos/SarahMontuaniBatagioti.pdf)
@@ -13,16 +13,37 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 
 ## 📚 Resumo sobre mim
 
-- Estudante de **Desenvolvimento de Software Multiplataforma** (3° semestre) na FATEC São José dos Campos (2024 – 2026)
-- **Técnica em Desenvolvimento de Sistemas** pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)
-- **Analista de Sistema** na Angular e-Commerce LTDA (Outubro 2024 – atualmente)
-- Experiência anterior:
+<table>
+  <tr>
+    <td style="vertical-align:top;padding-right:16px;">
+      <img src="arquivos/Sarah.png" alt="Sarah" width="150" />
+    </td>
+    <td>
+      <ul>
+        <li>Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> (4° semestre) na FATEC São José dos Campos (2024 – 2026)</li>
+        <li><strong>Técnica em Desenvolvimento de Sistemas</strong> pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+- **Experiência anterior:**
+  - **Analista de Sistema** na Angular Tecnologia em Educação LTDA (Outubro 2024 – Outubro 2025)
   - **Analista de Teste** na Symtropy Criação e Desenvolvimento (Jan 2024 – Set 2024)
   - **Menor Aprendiz** com foco em design, prototipação e desenvolvimento de interfaces (Jun 2022 – Dez 2023)
-- Conquistas e Voluntariado:
-  - Voluntária na Hamburgada do Bem (2025), AIESEC (2024 – 2025), e no Interact Club (2020 – 2021)
-  - Eleita aluna destaque na Technovation Summer School for Girls (2023) e premiada no Desafio Empower (2023)
-  - Equipe premiada no FIRST Robotics Competition (2021) e 2° lugar no Ideathon (2021)
+- **Voluntariados:**
+  - Voluntária no time de Apoio na Hamburgada do Bem (2025) 
+  - Voluntária no time Lar Global iGV da AIESEC (2024 – 2025)
+  - Voluntária e fundadora do projeto de reabertura da biblioteca da ETEC (2022)
+  - Voluntária no como Diretora de Imagem no Interact Club (2020 – 2021)
+- **Conquistas:**
+  - Premiada no programa Desafio Empower (2023)
+  - Eleita aluna destaque na Technovation Summer School for Girls (2023) 
+  - Equipe premiada na Off-Season FRC com o Quality Award - Team 6404 (2021)
+  - 2° lugar no Ideathon Construindo o Profissional do Futuro da INOVA CPS (2021)
+  - Medalhista de Ouro na Olimpíada Brasileira de Astronomia (2020)
+  - Medalhista de Ouro na Mostra Brasileira de Foguetes em (2020)
+  - Medalhista de Bronze na Mostra Brasileira de Foguetes (2019)
 
 ## 💡 Aprendizagem por Projetos Integrados - Meus Projetos
 
