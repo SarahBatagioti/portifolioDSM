@@ -1,6 +1,6 @@
 # 🌟 Portfólio de Sarah Batagioti! 🌟
 
-<img src="arquivos/Sarah.png" width="400" align="left" alt="Sarah" />  
+<img src="arquivos/Sarah.png" width="450" align="left" alt="Sarah" />  
 
 Olá! Eu sou a Sarah — seja muito bem-vindo(a) ao meu portfólio 😊✨  
 Aqui você encontrará um pouco da minha trajetória profissional, alguns dos projetos que desenvolvi e os principais canais para entrar em contato comigo.  
@@ -10,7 +10,7 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 - [📧 E-mail para contato](mailto:sarah.montuanibt@gmail.com)
 - [💬 Whatsapp para contato](https://api.whatsapp.com/send?phone=5512981282279&text=Oi%20Sarah!%20Tudo%20bem?%20Gostaria%20de%20falar%20com%20voc%C3%AA%20sobre...)
 - [🐙 Repositórios do GitHub](https://github.com/SarahBatagioti?tab=repositories)
-- [📄 PDF do Currículo](arquivos/SarahMontuaniBatagioti.pdf)  
+- [📄 PDF do Currículo](arquivos/SarahMontuaniBatagioti.pdf)
 
 ## 📚 Resumo sobre mim
 
