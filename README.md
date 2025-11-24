@@ -1,52 +1,121 @@
 # 🌟 Portfólio de Sarah Batagioti! 🌟
 
-Olá, sou Sarah! É um prazer tê-lo aqui 😁  
-Neste portfólio, você poderá encontrar mais informações sobre minha trajetória profissional, projetos, e formas de entrar em contato comigo!
+<img src="arquivos/Sarah.png" width="400" align="left" alt="Sarah" />  
+
+Olá! Eu sou a Sarah — seja muito bem-vindo(a) ao meu portfólio 😊✨  
+Aqui você encontrará um pouco da minha trajetória profissional, alguns dos projetos que desenvolvi e os principais canais para entrar em contato comigo.  
 
 Para saber **mais sobre mim**, acesse os links abaixo:
+- [🔗 Perfil no LinkedIn](https://www.linkedin.com/in/sarahbatagioti/)
 - [📧 E-mail para contato](mailto:sarah.montuanibt@gmail.com)
 - [💬 Whatsapp para contato](https://api.whatsapp.com/send?phone=5512981282279&text=Oi%20Sarah!%20Tudo%20bem?%20Gostaria%20de%20falar%20com%20voc%C3%AA%20sobre...)
-- [🔗 Perfil no LinkedIn](https://www.linkedin.com/in/sarahbatagioti/)
 - [🐙 Repositórios do GitHub](https://github.com/SarahBatagioti?tab=repositories)
-- [📄 PDF do Currículo](arquivos/SarahMontuaniBatagioti.pdf)
-
+- [📄 PDF do Currículo](arquivos/SarahMontuaniBatagioti.pdf)  
 
 ## 📚 Resumo sobre mim
-<div>
-  <img src="arquivos/Sarah.png" width="250" align="left" alt="Sarah" />
-  <ul>
-    <li>Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> (4° semestre) na FATEC São José dos Campos (2024 – 2026)</li>
-    <li><strong>Técnica em Desenvolvimento de Sistemas</strong> pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)</li>
-  </ul>
-</div>
 
-<br/>
-
-<div style="clear: both;"></div>
-
-<br/>
+**Formação**
+- Estudante de **Desenvolvimento de Software Multiplataforma** (4° semestre | Matutino) na FATEC São José dos Campos (2024 – 2026)
+- Técnica em **Desenvolvimento de Sistemas** pela ETEC Professora Ilza Nascimento Pintus (2021 – 2023)
 
 **Experiência anterior:**
-- **Analista de Sistema** na Angular Tecnologia em Educação LTDA (Outubro 2024 – Outubro 2025)
-- **Analista de Teste** na Symtropy Criação e Desenvolvimento (Jan 2024 – Set 2024)
-- **Menor Aprendiz** com foco em design, prototipação e desenvolvimento de interfaces (Jun 2022 – Dez 2023)
+- **Analista de Sistemas** na Angular Tecnologia em Educação LTDA (Outubro de 2024 – Outubro de 2025)
+- **Analista de Testes** na Symtropy Criação e Desenvolvimento (Janeiro de 2024 – Setemebro de 2024)
+- **Menor Aprendiz**, com foco em design, prototipação e desenvolvimento de interfaces (Junho de 2022 – Dezembro de 2023)
 
 **Voluntariados:**
 - Voluntária no time de Apoio na Hamburgada do Bem (2025) 
 - Voluntária no time Lar Global iGV da AIESEC (2024 – 2025)
 - Voluntária e fundadora do projeto de reabertura da biblioteca da ETEC (2022)
-- Voluntária no como Diretora de Imagem no Interact Club (2020 – 2021)
+- Voluntária como Diretora de Imagem no Interact Club (2020 – 2021)
 
 **Conquistas:**
 - Premiada no programa Desafio Empower (2023)
 - Eleita aluna destaque na Technovation Summer School for Girls (2023) 
 - Equipe premiada na Off-Season FRC com o Quality Award - Team 6404 (2021)
-- 2° lugar no Ideathon Construindo o Profissional do Futuro da INOVA CPS (2021)
+- 2° lugar no Ideathon "Construindo o Profissional do Futuro" da INOVA CPS (2021)
 - Medalhista de Ouro na Olimpíada Brasileira de Astronomia (2020)
-- Medalhista de Ouro na Mostra Brasileira de Foguetes em (2020)
+- Medalhista de Ouro na Mostra Brasileira de Foguetes (2020)
 - Medalhista de Bronze na Mostra Brasileira de Foguetes (2019)
 
 ## 💡 Aprendizagem por Projetos Integrados - Meus Projetos
+
+### 🐸 [**Atmos • 2025.2**](https://github.com/SkyFlyTeam/Atmos-documentation)
+
+#### 📑 **Descrição do Problema**
+
+Com o acontecimento de eventos climáticos extremos — como **deslizamentos de terra, enchentes e alagamentos** — comunidades mais vulneráveis sofrem impactos ainda maiores, especialmente em regiões periféricas, que muitas vezes **não contam com sistemas de alerta antecipado**.  
+A ausência de monitoramento adequado torna essas populações mais expostas, dificultando a prevenção de acidentes e a atuação de equipes responsáveis.
+
+#### 🎯 **Solução**
+
+O **Atmos** foi desenvolvido em parceria com a empresa **Tecsus** para oferecer uma solução moderna e eficiente de **monitoramento climático e análise de condições do solo**.  
+A aplicação reúne dados de **estações meteorológicas distribuídas pela cidade**, processa informações em tempo real e **emite alertas automáticos** quando são detectados riscos em potencial.  
+
+O sistema conta com recursos como:
+- Visualização de informações ambientais em dashboards interativos  
+- Monitoramento contínuo das estações  
+- Emissão de alertas customizados  
+- Gestão de usuários e perfis  
+- Histórico de dados coletados  
+
+Esse conjunto de funcionalidades contribui para **mitigar riscos**, **salvar vidas**, e **fornecer suporte às equipes de resposta e prevenção**.
+
+#### 🖥️ **Tecnologias Utilizadas**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### 💪 **Contribuições Pessoais**
+
+Nesse semestre atuei como **Scrum Master** da equipe SkyFly, exercendo um papel fundamental na organização do fluxo de trabalho e na saúde do time. Entre as principais contribuições, destaco:
+
+- **Condução das Daily Scrums** com foco no alinhamento das entregas e remoção de impedimentos.  
+- **Acompanhamento constante das atividades**, garantindo fluidez no progresso das sprints.  
+- **Facilitação das cerimônias Scrum**, incluindo:  
+  - Sprint Planning  
+  - Sprint Review  
+  - Retrospective  
+  - Daily Scrum  
+- **Colaboração ativa com o Product Owner**, contribuindo para refinar backlog, analisar prioridades e remover bloqueios.  
+- **Apoio na organização e disciplina do time**, garantindo que a metodologia fosse aplicada corretamente.  
+
+Além das responsabilidades de Scrum Master, atuei também como **desenvolvedora full-stack**, sendo responsável por:
+
+- Tela de **edição de perfil**  
+- **Gráficos do dashboard**, utilizando a biblioteca *Recharts*  
+- **Cards de informações ambientais**  
+- **Modal de notificações** com filtros avançados  
+
+#### 🛠️ **Hard Skills Efetivamente Desenvolvidas**
+
+- **Prototipação no Figma**: Criação de interfaces claras e funcionais, estruturando fluxos e componentes essenciais do sistema.  
+- **Git e GitHub**: Versionamento consistente, criação de branches, workflows e revisão de PRs.  
+- **Gerenciamento de Tarefas no Jira**: Organização de sprints, controle de impedimentos e acompanhamento do progresso.  
+- **Uso da biblioteca Recharts (React)**: Desenvolvimento de gráficos interativos e dashboards dinâmicos.  
+
+#### 🧠 **Soft Skills Efetivamente Desenvolvidas**
+
+- **Foco no Resultado**: Priorização contínua das entregas e da estabilidade do produto durante as sprints.  
+- **Comunicação Responsável**: Necessária especialmente em momentos delicados, como a **realização de desligamento de um membro da equipe**, exigindo clareza, empatia e firmeza.  
+- **Resolução de Conflitos**: Mediação de atritos internos e reconciliação de expectativas entre PO, devs e stakeholders.  
+- **Organização e Gestão de Tempo**: Priorização de tarefas e acompanhamento disciplinado dos prazos da sprint.  
+- **Liderança Servidora**: Apoiar o time, remover barreiras e promover autonomia.  
+- **Facilitação**: Condução de reuniões produtivas, direcionando discussões e garantindo foco no objetivo.  
+- **Adaptabilidade**: Capacidade de ajustar processos e dinâmicas internas de acordo com as necessidades do time.  
+- **Escuta Ativa**: Compreensão das dificuldades individuais dos membros e suporte para melhorar o desempenho coletivo.  
+
+---
 
 ### 🐝 [**BeeOnTime • 2025.1**](https://github.com/SkyFlyTeam/beeOnTime-documentation)
 
@@ -134,7 +203,6 @@ O **Cloud Stock** oferece uma plataforma completa para a gestão de estoque, com
 #### 💪 **Contribuições Pessoais**
 Atuei como **desenvolvedora front-end**, contribuindo na prototipação do sistema utilizando o Figma, incluindo a criação da identidade visual e logotipo final. Durante o desenvolvimento, fui responsável pela construção de várias telas e componentes do sistema, aplicando **React** e **TypeScript** para criar uma interface responsiva e interativa. Além disso, participei da **gestão de tarefas** no **Jira**, colaborando ativamente no acompanhamento das sprints e no alinhamento do progresso do projeto.
 
-
 #### 🛠️ **Hard Skills Efetivamente Desenvolvidas**
 - **Modelagem de Banco de Dados**: Criação e estruturação de bancos de dados eficientes para garantir o armazenamento e a integridade das informações de estoque.
 - **Prototipação pelo Figma**: Desenvolvimento de wireframes e protótipos interativos, com foco na usabilidade e no design visual do sistema, garantindo uma experiência de usuário fluida.
@@ -171,7 +239,6 @@ Desenvolver um painel de visualização que permita o monitoramento contínuo da
 
 #### 💪 **Contribuições Pessoais**
 Atuei como **desenvolvedora full-stack** no **Smart Farm**, sendo responsável pela **modelagem do banco de dados** e pela criação do **backlog do produto**. Também ajudei na prototipação do projeto com **Figma** e na **documentação do manual do usuário**. No desenvolvimento, colaborei na criação de componentes de interface e na implementação de funcionalidades com **Python** e **MySQL**. Trabalhei ativamente no **front-end**, cuidando do desenvolvimento em algumas telas.
-
 
 #### 🛠️ **Hard Skills Efetivamente Desenvolvidas**
 - **Modelagem de Banco de Dados**: Design e estruturação do banco de dados, utilizando **MySQL** para armazenar dados do sistema.
